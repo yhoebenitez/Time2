@@ -1,0 +1,24 @@
+{
+  "name": "time2",
+  "version": "1.0.0",
+  "description": "The Time (El Tiempo)",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eliuponce/Time2.git"
+  },
+  "keywords": [
+    "time",
+    "github",
+    "grupo"
+  ],
+  "author": "Airam Eliu Ponce Yanez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eliuponce/Time2/issues"
+  },
+  "homepage": "https://github.com/eliuponce/Time2#readme"
+}
