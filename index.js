@@ -1,6 +1,6 @@
 /******************************
 * TIME
-* The Time
+* Time
 * (El tiempo - Primer Proyecto asignado)
 * Ariday Morales / Franklin Rodriguez / Airam Ponce / Yhoe Benitez
 */
